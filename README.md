@@ -16,6 +16,31 @@
 ✍️ Curso concluído na Lumestack 
 
 ---
+
+### 🧩 Skills Técnicas
+
+#### 🧪 Testes Manuais  
+• **Criação e execução de casos de teste baseados em requisitos funcionais e não funcionais **.  
+• **Prática em testes exploratórios, regressão, smoke e validação end-to-end**.  
+• **Registro detalhado de resultados, defeitos e evidências (passos para reproduzir, prints e logs)**
+• **Ênfase em rastreabilidade e melhoria contínua da qualidade**
+
+
+
+#### 🤖 Testes Automatizados  
+- **Cypress** – Automação de fluxos web, boas práticas de código limpo, CI/CD.  
+ 
+
+#### 🔌 Testes de API  
+- **Postman** 
+
+#### 🧠 Linguagens de Programação  
+- **JavaScript**
+- 
+#### 🗄️ Banco de Dados  
+- **PostgreSQL**  
+  
+  
 ## 🛠️ Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
