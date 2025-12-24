@@ -18,9 +18,6 @@ Domínio em **plano de testes**, **execução**, **análise de requisitos** e **
 - 😊 Produtos estáveis e usuários felizes
 
 ---
-
-## 🛠️ Tech Stack
-
 ## 🛠️ Tech Stack
 
 ### Testes e Qualidade
