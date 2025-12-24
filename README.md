@@ -14,6 +14,7 @@
 🧪 Atuação em testes manuais e automatizados com foco em qualidade, rastreabilidade e melhoria contínua
 📚 Estudando para aprimoramento de testes de API e boas práticas avançadas
 ✍️ Curso concluído na Lumestack
+
 ---
 
 ### 🧩 Skills Técnicas
