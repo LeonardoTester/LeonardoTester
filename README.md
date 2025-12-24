@@ -8,15 +8,12 @@
 [<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
-🧠 **What I do**
-
-- 🧪 Testes manuais, exploratórios e de regressão
-- 📝 Planejamento e execução de casos de teste
-- 🔍 Análise de requisitos funcionais
-- 🐛 Caça e reporte preciso de bugs
-- ⚙️ Uso de Jira, Postman e ferramentas de QA
-- 🚀 Garantia de qualidade em ambientes ágeis
-- 😊 Produtos estáveis e usuários felizes
+🔍 Atualmente atuando como QA, com projetos realizados na empresa Lumestack  
+👨‍💻 Utilizo JavaScript como base principal para automação de testes  
+🧠 Forte conhecimento em programação e ciclo de vida de desenvolvimento de software  
+🧪 Atuação em testes manuais e automatizados com foco em qualidade, rastreabilidade e melhoria contínua  
+📚 Estudando para aprimoramento de testes de API e boas práticas avançadas  
+✍️ Curso concluído na Lumestack 
 
 ---
 ## 🛠️ Ferramentas
