@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
 <br>
-<img src="https://imgur.com/gallery/bug-5pTZbO2#Qny5iTT.png" />
+<img src="https://imgur.com/a/bug-5pTZbO2.png" alt="bug" min-width="300px" max-width="300px" width="300px" align="right">
 
 
 
