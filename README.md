@@ -1,6 +1,6 @@
-**Hi 👋, I'm Leonardo Silva**
+## **Hi 👋, I'm Leonardo Silva**
 
-## QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, execução, análise de requisitos e identificação de bugs.
+# QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, execução, análise de requisitos e identificação de bugs.
 
 
 [<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Manuais-blue?style=flat&color=grey"/>](#)
