@@ -1,10 +1,14 @@
 # Hi 👋, I'm Leonardo Silva
 
-🚀 **QA Engineer | Testes Manuais, Automação e API | Cypress | Postman | Scrum |**  
-🇧🇷 Brazil
+🚀 **QA Engineer | Testes Manuais, Automação e API | Cypress | Postman | Scrum |**
 
 **QA** | Garantindo **qualidade em cada sprint**
 Domínio em **plano de testes**, **execução**, **análise de requisitos** e **identificação de bugs**.
+
+[<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Manuais-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%9A%80-Automa%C3%A7%C3%A3o-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 ---
 
 ## 🧠 O que eu faço:
