@@ -10,7 +10,7 @@
 
 🔍 Atualmente atuando como QA, com projetos realizados na empresa Lumestack  
 👨‍💻 Utilizo JavaScript como base principal para automação de testes  
-🧠 Forte conhecimento em programação e ciclo de vida de desenvolvimento de software  
+🧠 Forte conhecimento em metodologias ágeis com foco em Scrum (sprints, daily meetings, planning e retrospectives)
 🧪 Atuação em testes manuais e automatizados com foco em qualidade, rastreabilidade e melhoria contínua  
 📚 Estudando para aprimoramento de testes de API e boas práticas avançadas  
 ✍️ Curso concluído na Lumestack 
