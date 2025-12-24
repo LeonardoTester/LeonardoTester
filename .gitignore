@@ -1,0 +1,18 @@
+# Node / JavaScript
+node_modules/
+.env
+.env.local
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+
+# OS
+.DS_Store
+Thumbs.db
