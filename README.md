@@ -8,6 +8,10 @@
 [<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
+<br>
+<img src="https://i.pinimg.com/736x/5c/0a/e1/5c0ae14e3fbc583dbd28eb154264b224.jpg" alt="ilustração de profissional de QA / tecnologia" min-width="300px" max-width="300px" width="300px" align="right">
+
+
 🔍 Quality assurance, com projetos realizados na empresa Lumestack        
 👨‍💻 Utilizo JavaScript como base principal para automação de testes      
 🧠 Forte conhecimento em metodologias ágeis com foco em Scrum (sprints, daily meetings, planning e retrospectives)           
