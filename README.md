@@ -18,9 +18,7 @@ Domínio em **plano de testes**, **execução**, **análise de requisitos** e **
 - 😊 Produtos estáveis e usuários felizes
 
 ---
-## 🛠️ Tech Stack
-
-### Testes e Qualidade
+## 🛠️ Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Cypress](https://img.shields.io/badge/Cypress-1722C1?style=for-the-badge&logo=cypress&logoColor=white)
@@ -43,6 +41,9 @@ Domínio em **plano de testes**, **execução**, **análise de requisitos** e **
 </p>
 ---
 
+
+---
+
 ## 🚀 Filosofia
 
 > _"Qualidade não é só encontrar bugs.  
@@ -52,3 +53,4 @@ Domínio em **plano de testes**, **execução**, **análise de requisitos** e **
 
 ⭐ Se curtir meu trabalho, considere dar uma estrela no repositório  
 🤝 Sempre aberta(o) a colaborações, feedbacks, projetos open-source e oportunidades na área de QA
+
