@@ -29,22 +29,6 @@
 
 • **Ênfase em rastreabilidade e melhoria contínua da qualidade**.
 
-
-
-#### 🤖 Testes Automatizados  
-- **Cypress** – Automação de fluxos web, boas práticas de código limpo, CI/CD.  
- 
-
-#### 🔌 Testes de API  
-- **Postman** 
-
-#### 🧠 Linguagens de Programação  
-- **JavaScript**
-- 
-#### 🗄️ Banco de Dados  
-- **PostgreSQL**  
-  
-  
 ## 🛠️ Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
