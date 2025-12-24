@@ -45,14 +45,30 @@
 
 ---
 
-## 📊 GitHub Stats
+### 💡 Soft Skills  
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LeonardoTester&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoTester&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+💬 **Comunicação Eficaz**  
+⚡ **Proatividade**  
+🎯 **Liderança**  
+🧩 **Adaptabilidade**  
+🧠 **Pensamento Crítico**  
+🤝 **Colaboração em Equipe**
+
 ---
+### 📜 Certificações  
 
+- **Formação em Quality Assurance (QA)**  
+  *Instituição:* Lumestack  
+  
+  *Conteúdos principais:*  
+  - Software Testing (testes manuais, exploratórios, regressão e smoke)  
+  - Metodologias Ágeis (Scrum: sprints, planning, daily, retrospective)  
+  - Programação com JavaScript aplicada a QA  
+  - HTML para suporte em automação de testes web  
+  - Automação de testes com Cypress (E2E)  
+  - Testes de API (validação de endpoints REST)  
+  - Automação de API com Cypress e Postman  
+  - Banco de Dados 
 
 ---
 
