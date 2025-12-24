@@ -9,7 +9,8 @@
 [<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
 <br>
-<img src="https://i.pinimg.com/736x/5c/0a/e1/5c0ae14e3fbc583dbd28eb154264b224.jpg" alt="ilustração de profissional de QA / tecnologia" min-width="300px" max-width="300px" width="300px" align="right">
+<img width="860" height="531" alt="image" src="https://github.com/user-attachments/assets/dabf5e79-b344-40be-90a5-eaacd99e6d3b" />
+
 
 
 🔍 Quality assurance, com projetos realizados na empresa Lumestack        
