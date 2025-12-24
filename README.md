@@ -23,6 +23,7 @@
 • **Criação e execução de casos de teste baseados em requisitos funcionais e não funcionais**.  
 • **Prática em testes exploratórios, regressão, smoke e validação end-to-end**.  
 • **Registro detalhado de resultados, defeitos e evidências (passos para reproduzir, prints e logs)**
+
 • **Ênfase em rastreabilidade e melhoria contínua da qualidade**
 
 
