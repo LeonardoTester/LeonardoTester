@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
 <br>
-<img src="https://imgur.com/a/bug-5pTZbO2.png" alt="bug" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://i.imgur.com/Qny5iTT.png" alt="QA caçando bug com lupa" min-width="300px" max-width="300px" width="300px" align="right">
 
 
 
@@ -91,6 +91,5 @@
 
 ---
 
-⭐ Se curtir meu trabalho, considere dar uma estrela no repositório  
 🤝 Sempre aberta(o) a colaborações, feedbacks, projetos open-source e oportunidades na área de QA
 
