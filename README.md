@@ -18,7 +18,6 @@
 📚 Estudando para aprimoramento de testes de API e boas práticas avançadas       
 ✍️ Curso concluído na Lumestack  
 
-
 ---
 
 ### 🧩 Skills Técnicas
