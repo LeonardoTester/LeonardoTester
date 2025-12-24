@@ -1,7 +1,7 @@
 # Hi 👋, I'm Leonardo Silva
 
 **QA Engineer | Garantindo qualidade em cada sprint**
-**Domínio em **plano de testes**, **execução**, **análise de requisitos** e **identificação de bugs**.
+**Domínio em plano de testes, execução, análise de requisitos e identificação de bugs**.
 
 [<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Manuais-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%9A%80-Automa%C3%A7%C3%A3o-blue?style=flat&color=grey"/>](#)
