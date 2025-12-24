@@ -11,8 +11,6 @@
 <br>
 <img src="https://i.imgur.com/Qny5iTT.png" alt="QA caçando bug com lupa" min-width="300px" max-width="300px" width="300px" align="right">
 
-
-
 🔍 Quality assurance, com projetos realizados na empresa Lumestack        
 👨‍💻 Utilizo JavaScript como base principal para automação de testes      
 🧠 Forte conhecimento em metodologias ágeis com foco em Scrum (sprints, daily meetings, planning e retrospectives)           
