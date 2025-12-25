@@ -77,7 +77,7 @@ QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, e
 ### 🧠 Próximos Estudos  
 
 ![Appium](https://img.shields.io/badge/-Appium-333333?style=flat&logo=appium) **Testes Mobile**  
-![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) **Automação de Navegadores**  
+![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright) **Automação de Navegadores**  
 ![k6](https://img.shields.io/badge/-k6-333333?style=flat&logo=k6) **Testes de Performance**  
 ![JMeter](https://img.shields.io/badge/-JMeter-333333?style=flat&logo=apachejmeter) **Testes de Carga**  
 
