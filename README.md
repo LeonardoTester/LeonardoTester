@@ -32,6 +32,8 @@ QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, e
 
 • **Ênfase em rastreabilidade e melhoria contínua da qualidade**.
 
+---
+
 #### 🤖 Testes Automatizados
 
 •  **Cypress – Automação de fluxos web, boas práticas de código limpo, CI/CD**.
@@ -43,7 +45,6 @@ QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, e
 #### 🧠 Linguagens de Programação:
 
 • **JavaScript**
-
 
 #### 🗄️ Banco de Dados:
 
