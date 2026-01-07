@@ -50,6 +50,7 @@ QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, e
 
 • **PostgreSQL**
 
+---
 
 ## 🛠️ Ferramentas
 
@@ -57,9 +58,7 @@ QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, e
 ![Cypress](https://img.shields.io/badge/Cypress-1722C1?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### Outras ferramentas
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
