@@ -34,22 +34,17 @@ QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, e
 
 ---
 
-#### 🤖 Testes Automatizados
+### 🤖 Testes Automatizados
+- **Cypress** — Automação de fluxos web, boas práticas de código limpo e CI/CD
 
-•  **Cypress – Automação de fluxos web, boas práticas de código limpo, CI/CD**.
+### 🔌 Testes de API
+- **Postman** — Criação de Collections, automação e validação de endpoints REST
 
-#### 🔌 Testes de API
+### 🧠 Linguagens de Programação
+- JavaScript
 
-  • **Postman, – Criação de Collection, automação e validação de endpoints REST**.
-
-#### 🧠 Linguagens de Programação:
-
-• **JavaScript**
-
-#### 🗄️ Banco de Dados:
-
-• **PostgreSQL**
-
+### 🗄️ Banco de Dados
+- PostgreSQL
 ---
 
 ## 🛠️ Ferramentas
