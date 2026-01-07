@@ -11,15 +11,21 @@ QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, e
 <br>
 <img src="https://i.imgur.com/Qny5iTT.png" alt="QA caçando bug com lupa" min-width="300px" max-width="300px" width="300px" align="right">
 
-| | |
-| :--- | :--- |
-| 🔍 | Quality assurance, com projetos realizados na empresa Lumestack |
-| 👨‍💻 | Utilizo JavaScript como base principal para automação de testes |
-| 🧠 | Forte conhecimento em metodologias ágeis com foco em Scrum (sprints, daily meetings, planning e retrospectives) |
-| 🧪 | Atuação em testes manuais e automatizados com foco em qualidade, rastreabilidade e melhoria contínua |
-| 📚 | Estudando para aprimoramento de testes de API e boas práticas avançadas |
-| ✍️ | Curso concluído na Lumestack |
----
+<table border="0">
+  <tr>
+    <td>
+      🔍 Quality assurance, com projetos realizados na empresa Lumestack <br>
+      👨‍💻 Utilizo JavaScript como base principal para automação de testes <br>
+      🧠 Forte conhecimento em metodologias ágeis (Scrum, sprints, dailies) <br>
+      🧪 Atuação em testes manuais e automatizados com foco em qualidade <br>
+      📚 Estudando para aprimoramento de testes de API e boas práticas <br>
+      ✍️ Curso concluído na Lumestack
+    </td>
+    <td width="300px">
+      <img src="https://i.imgur.com/Qny5iTT.png" alt="QA caçando bug">
+    </td>
+  </tr>
+</table>
 
 ### 🧩 Skills Técnicas
 
