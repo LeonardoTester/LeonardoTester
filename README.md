@@ -1,4 +1,4 @@
-## **Hi 👋, I'm Leonardo Silva**
+### **Hi 👋, I'm Leonardo Silva**
 
 QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, execução, análise de requisitos e identificação de bugs.
 
