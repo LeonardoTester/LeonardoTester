@@ -1,48 +1,53 @@
-# Hi 👋, I'm Leonardo Silva
+### **Hi 👋, I'm Leonardo Silva**
 
-### QA Engineer | Garantindo qualidade em cada sprint
-**Domínio em plano de testes, execução, análise de requisitos e identificação de bugs.**
+QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, execução, análise de requisitos e identificação de bugs.
 
-<div align="left">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Manuais-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Automa%C3%A7%C3%A3o-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-grey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-grey?style=flat-square"/>
-</div>
+
+[<img src="https://img.shields.io/badge/%F0%9F%92%BB-Testes%20Manuais-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%9A%80-Automa%C3%A7%C3%A3o-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
 <br>
+<img src="https://i.imgur.com/Qny5iTT.png" alt="QA caçando bug com lupa" min-width="300px" max-width="300px" width="300px" align="right">
 
-<img src="https://i.imgur.com/Qny5iTT.png" alt="QA caçando bug com lupa" width="300px" align="right">
-
-🔍 **Quality Assurance**: Experiência prática em projetos realizados na Lumestack.
-👨‍💻 **Automação**: Foco em **JavaScript** para criação de scripts robustos e eficientes.
-🧠 **Agilidade**: Forte vivência em metodologias ágeis (**Scrum**), participando ativamente de Dailies, Plannings e Retrospectives.
-🧪 **Estratégia**: Atuação híbrida (manual e automatizada) com foco em rastreabilidade e melhoria contínua.
-📚 **Evolução**: Aprofundando conhecimentos em testes de API e arquiteturas avançadas.
-✍️ **Formação**: Certificado pela Lumestack em QA Moderno.
-
-<br>
+🔍 Quality assurance, com projetos realizados na empresa Lumestack        
+👨‍💻 Utilizo JavaScript como base principal para automação de testes      
+🧠 Forte conhecimento em metodologias ágeis com foco em Scrum (sprints, daily meetings, planning e retrospectives)           
+🧪 Atuação em testes manuais e automatizados com foco em qualidade, rastreabilidade e melhoria contínua        
+📚 Estudando para aprimoramento de testes de API e boas práticas avançadas       
+✍️ Curso concluído na Lumestack  
 
 ---
 
 ### 🧩 Skills Técnicas
 
-#### 🧪 Testes Manuais
-* **Planejamento**: Criação e execução de casos de teste baseados em requisitos funcionais e não funcionais.
-* **Tipos de Teste**: Prática em testes exploratórios, regressão, smoke e validação End-to-End (E2E).
-* **Gestão de Defeitos**: Registro detalhado de bugs com evidências precisas (passos, logs e screenshots).
-* **Qualidade**: Foco total na experiência do usuário e prevenção de falhas.
+#### 🧪 Testes Manuais  
 
-#### 🤖 Automação & Ferramentas
-* **Web**: Cypress (Clean Code e integração com CI/CD).
-* **API**: Postman (Collections, Scripts de validação e testes de contrato).
-* **Linguagem**: JavaScript.
-* **Banco de Dados**: PostgreSQL.
+• **Criação e execução de casos de teste baseados em requisitos funcionais e não funcionais**.
+
+• **Prática em testes exploratórios, regressão, smoke e validação end-to-end**.  
+
+• **Registro detalhado de resultados, defeitos e evidências (passos para reproduzir, prints e logs)**.
+
+• **Ênfase em rastreabilidade e melhoria contínua da qualidade**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🤖 Testes Automatizados
+- **Cypress** — Automação de fluxos web, boas práticas de código limpo e CI/CD
 
+### 🔌 Testes de API
+- **Postman** — Criação de Collections, automação e validação de endpoints REST
+
+### 🧠 Linguagens de Programação
+- JavaScript
+
+### 🗄️ Banco de Dados
+- PostgreSQL
+
+##
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Cypress](https://img.shields.io/badge/Cypress-1722C1?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -50,6 +55,34 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 💡 Soft Skills  
+
+💬 **Comunicação Eficaz**  
+⚡ **Proatividade**  
+🎯 **Liderança**  
+🧩 **Adaptabilidade**  
+🧠 **Pensamento Crítico**  
+🤝 **Colaboração em Equipe**
+
+---
+### 📜 Certificações  
+
+- **Formação em Quality Assurance (QA)**  
+  *Instituição:* Lumestack  
+  
+  *Conteúdos principais:*  
+  - Software Testing (testes manuais, exploratórios, regressão e smoke)  
+  - Metodologias Ágeis (Scrum: sprints, planning, daily, retrospective)  
+  - Programação com JavaScript aplicada a QA  
+  - HTML para suporte em automação de testes web  
+  - Automação de testes com Cypress (E2E)  
+  - Testes de API (validação de endpoints REST)  
+  - Automação de API com Cypress e Postman  
+  - Banco de Dados 
 
 ---
 
@@ -60,15 +93,12 @@
 ![k6](https://img.shields.io/badge/-k6-333333?style=flat&logo=k6) **Testes de Performance**  
 ![JMeter](https://img.shields.io/badge/-JMeter-333333?style=flat&logo=apachejmeter) **Testes de Carga**  
 
+## 🚀 Filosofia
+
+> _"Qualidade não é só encontrar bugs.  
+> É garantir que o usuário tenha uma experiência confiável, fluida e sem frustrações — desde o primeiro clique até o último."_
+
 ---
 
-### 🚀 Filosofia
+🤝 Sempre aberta(o) a colaborações, feedbacks, projetos open-source e oportunidades na área de QA
 
-> *"Qualidade não é apenas encontrar bugs. É garantir que o usuário tenha uma experiência confiável, fluida e sem frustrações — desde o primeiro clique até o último."*
-
----
-
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
