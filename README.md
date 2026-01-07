@@ -8,9 +8,6 @@ QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, e
 [<img src="https://img.shields.io/badge/%F0%9F%93%8A-API%20Testing-blue?style=flat&color=grey"/>](#)
 [<img src="https://img.shields.io/badge/%F0%9F%92%AD-QA%20Mindset-blue?style=flat&color=grey"/>](#)
 
-<br>
-<img src="https://i.imgur.com/Qny5iTT.png" alt="QA caçando bug com lupa" min-width="300px" max-width="300px" width="300px" align="right">
-
 <table border="0">
   <tr>
     <td>
