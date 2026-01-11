@@ -1,9 +1,8 @@
 <div align="center">
-  <h2>
-    <a href="https://git.io/typing-svg">
-      <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Th%C3%A1lik+Parente%21](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Leonardo+Silva)](https://git.io/typing-svg))" alt="Typing SVG">
-    </a>
-  </h2> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Leonardo+Silva" alt="Typing SVG">
+  </a>
+</div>
 
 QA Engineer | Garantindo qualidade em cada sprint domínio em plano de testes, execução, análise de requisitos e identificação de bugs.
 
